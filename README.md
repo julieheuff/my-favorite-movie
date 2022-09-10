@@ -2,7 +2,7 @@
 
 <body>
     
-<title>dit is een webpagina over mijn favoriete film</title>
+<t>dit is een webpagina over mijn favoriete film</t>
 
 <h1>mijn favoriete film</h1>
 
